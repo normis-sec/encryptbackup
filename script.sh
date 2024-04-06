@@ -1,5 +1,4 @@
-#
-#security in my mind
+# security in my mind
 #
 # don't forget to populate PASS variable with your actual password!
 #

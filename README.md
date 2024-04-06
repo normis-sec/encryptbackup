@@ -1,2 +1,3 @@
 # encryptbackup
-Bash script to crypt mysql backup
+
+Bash script to create **zip protected archive** of our MySQL database!
